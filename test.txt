@@ -1,0 +1,10 @@
+ Volume in drive C is os
+ Volume Serial Number is E4F6-19EF
+
+ Directory of C:\Users\remo\Documents\Myproject
+
+15-01-2022  13:50    <DIR>          .
+15-01-2022  13:50    <DIR>          ..
+15-01-2022  13:50                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  59,585,343,488 bytes free
